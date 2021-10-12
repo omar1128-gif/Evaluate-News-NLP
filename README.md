@@ -54,3 +54,14 @@ We are about to put our personal API keys into a file, but when we push, this fi
 ```
 API_KEY=**************************
 ```
+
+### Testing
+
+-   Before running any test be sure to create a `.env` file and put a valid MeaningCloud API key and set MODE to `TESTING` Like this:
+
+```
+API_KEY=**************************
+MODE=TESTING
+```
+
+-   After finishing the tests, delete `MODE` from `.env` file.
