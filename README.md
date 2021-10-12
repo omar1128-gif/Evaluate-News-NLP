@@ -54,11 +54,3 @@ We are about to put our personal API keys into a file, but when we push, this fi
 ```
 API_KEY=**************************
 ```
-
-## Deploying
-
-This site is deployed On
-
-```
-
-```
